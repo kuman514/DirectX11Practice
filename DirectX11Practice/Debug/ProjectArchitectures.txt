@@ -1,0 +1,1 @@
+D:\CodeForGithub\DirectX11Practice\DirectX11Practice\DirectX11Practice.vcxproj;x86

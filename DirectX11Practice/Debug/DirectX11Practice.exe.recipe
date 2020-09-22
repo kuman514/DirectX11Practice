@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>D:\CodeForGithub\DirectX11Practice\Debug\DirectX11Practice\DirectX11Practice.exe</ProjectOutputs>
+  <ContentFiles>D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\LockScreenLogo.scale-200.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\SplashScreen.scale-200.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\Square150x150Logo.scale-200.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\Square44x44Logo.scale-200.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\Square44x44Logo.targetsize-24_altform-unplated.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\StoreLogo.png;D:\CodeForGithub\DirectX11Practice\DirectX11Practice\Assets\Wide310x150Logo.scale-200.png;D:\CodeForGithub\DirectX11Practice\Debug\DirectX11Practice\SamplePixelShader.cso;D:\CodeForGithub\DirectX11Practice\Debug\DirectX11Practice\SampleVertexShader.cso</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>
